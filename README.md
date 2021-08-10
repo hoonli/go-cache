@@ -3,4 +3,4 @@
 
 
 ### 结构图
-![avatar](https://www.hoonli.net/upload/2021/08/1-ef3ed7c5704f42dfa551f67a916d9a6c.png)
+![avatar](结构图.png)
